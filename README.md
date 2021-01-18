@@ -20,17 +20,48 @@
 
 そこに研究の話題を絡めて話したり、研究室のゼミのようなものです。
 
-### Slack
+## Slack
 
-Slackの招待URLです。期限付きなので、定期的に変更されます（2021年2月18日まで）。  
+コミュニケーションツールとして、Slackを使用しています。
+
+課題やキャリアに対する質問等をSlack上でやり取りしています。
+
+以下にSlackの招待URLを記載します。期限付きなので、定期的に変更されます（2021年2月18日まで）。  
 
 https://join.slack.com/t/minpy/shared_invite/zt-l3esl604-Qw5cEYzj9By9TzZOetUEjQ
 
 ## Google Classroom
 
-課題をGoogle Classroomで公開しています。  
+毎週の勉強会で課題を出しています。
+
+課題は、Google Classroomで公開されており、いつでも挑戦できます。
 現在は統計検定2級、Pandasによる実践データ分析の課題を用意しています。  
 
 興味がある方は、Google Classroomに参加して「授業」のタブから課題を解いてみましょう。
 
 https://classroom.google.com/c/MjQ0ODY1NjkwODAy?hl=ja&cjc=wjozsg7
+
+## connpass
+
+勉強会の開催日時等は[connpass](https://niigata-bda-student.connpass.com/)でお知らせしています。
+
+出欠の確認、日時、Zoomの招待URL、パスワード等はconnpassで確認して下さい。
+
+## これまで行った内容
+
+これまでの勉強会の内容は、[公式ページ](https://www.bdarc.net)の記事でまとめられています。興味があればご覧下さい。
+
+* Pythonの環境構築
+* Google Colabの使い方
+* Wordpressの使い方
+* Markdown形式で数式を書く方法
+* Pythonによる機械学習
+* Pythonによる自然言語処理
+
+## 各種リンク
+* [BDA学生研究会のTwitter](https://twitter.com/BDARC_Students)
+* [BDA学生研究会のWebサイト](https://bdarc.net/)
+* [主催者のTwitter](https://twitter.com/historoid1)
+* [主催者のWebサイト](https://historoid.com)
+* [新潟大学BDA研究センター](https://www.eng.niigata-u.ac.jp/~bda/)
+* メール bdarc.common@gmail.com
