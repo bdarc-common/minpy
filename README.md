@@ -26,9 +26,9 @@
 
 課題やキャリアに対する質問等をSlack上でやり取りしています。
 
-以下にSlackの招待URLを記載します。期限付きなので、定期的に変更されます（2021年2月18日まで）。  
+以下にSlackの招待URLを記載します。期限付きなので、定期的に変更されます（2021年1月27日まで）。  
 
-https://join.slack.com/t/minpy/shared_invite/zt-l3esl604-Qw5cEYzj9By9TzZOetUEjQ
+https://join.slack.com/t/minpy/shared_invite/zt-leretk1c-P4yeMVnUEeJ9XogHdv3xfQ
 
 ## Google Classroom
 
