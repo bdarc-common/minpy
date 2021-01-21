@@ -8,7 +8,7 @@
 
 統計検定の過去問をPythonを使いながら解いてみました。
 
-このときは[スライド]（https://slides.com/historoid/minpy_001）を使って説明していました。
+このときは[スライド](https://slides.com/historoid/minpy_001)を使って説明していました。
 
 幹葉図、最頻値、平均、標準偏差、相関係数、共分散、Pythonの統計ライブラリ、Pythonによる乱数の生成などを学習しました。
 
