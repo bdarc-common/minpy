@@ -36,3 +36,7 @@ Streamlitの基本的な使い方を説明しました。これで自分のデ�
 
 ポアソン分布について詳しく解説。ベルヌーイ試行、二項分布、正規分布、標準化係数など。
 
+## [第6回 Pandasによる実践データ分析編](https://drive.google.com/drive/folders/1sgmwNRAyv9FmTr1xH98IKnAbjYUrsX9C?usp=sharing) 2021年1月28日
+
+文字表記の揺れへの対策。
+
