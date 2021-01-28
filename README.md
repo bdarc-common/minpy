@@ -28,7 +28,7 @@
 
 以下にSlackの招待URLを記載します。期限付きなので、定期的に変更されます（2021年1月27日まで）。  
 
-https://join.slack.com/t/minpy/shared_invite/zt-leretk1c-P4yeMVnUEeJ9XogHdv3xfQ
+https://join.slack.com/t/minpy/shared_invite/zt-lkm2hzx0-nYS4hEzEgr8rzuyVZ8NJKQ
 
 ## Google Classroom
 
