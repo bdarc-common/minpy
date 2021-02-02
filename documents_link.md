@@ -1,8 +1,6 @@
 # みんなで学ぼう！Pythonによるデータサイエンス
 
 こちらのページには使用した資料のリンクを載せておきます。
-[資料一覧](https://drive.google.com/drive/folders/14A4q8y1geoE5NtNBBcoC7a3JGgVbp0Ie?usp=sharing)
-
 
 ## [第1回 統計検定編](https://drive.google.com/drive/folders/1en_J1AAd4v4O0fbYTXCL0jpsla3_iuID?usp=sharing) 2020年12月14日
 
@@ -40,3 +38,7 @@ Streamlitの基本的な使い方を説明しました。これで自分のデ�
 
 文字表記の揺れへの対策。
 
+
+## [第7回 統計検定編](https://drive.google.com/drive/folders/1SHAj0iNahO9ToQTUL_WH5Dn0mggXb3-K?usp=sharing) 2021年2月2日
+
+カイ二乗分布について。
