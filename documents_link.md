@@ -1,12 +1,12 @@
 # みんなで学ぼう！Pythonによるデータサイエンス
 
-こちらのページには使用した資料のリンクを載せておきます。
+こちらのページには過去に使用した資料のリンクを載せます。
 
 ## [第1回 統計検定編](https://drive.google.com/drive/folders/1en_J1AAd4v4O0fbYTXCL0jpsla3_iuID?usp=sharing) 2020年12月14日
 
 統計検定の過去問をPythonを使いながら解いてみました。
 
-このときは[スライド](https://slides.com/historoid/minpy_001)を使って説明していました。
+このときだけ[スライド](https://slides.com/historoid/minpy_001)を使って説明していました。
 
 幹葉図、最頻値、平均、標準偏差、相関係数、共分散、Pythonの統計ライブラリ、Pythonによる乱数の生成などを学習しました。
 
@@ -16,6 +16,8 @@ Pandasを使って実際にデータ分析をしました。
 
 商品名、購買者リストなどのCSVファイルをGoogle Colabで開き、データフレームとして処理します。
 
+複数のCSVファイルからデータフレームを作り、必要なデータを連結して解析を行います。
+
 
 ## [第3回 統計検定編](https://drive.google.com/drive/folders/1osWMCQ_ZRUSDiw89HpT65PyZcUabU1fc?usp=sharing) 2021年1月7日
 
@@ -24,21 +26,34 @@ Pandasを使って実際にデータ分析をしました。
 ピアソンの積率相関係数、スピアマンの順位相関係数、Pythonによる単回帰の実装、相関係数と回帰直線の関係について。
 
 
-## [第4回 話題のデータ可視化WebアプリStreamlitを触ってみよう](https://drive.google.com/drive/folders/1pnzAvycnDflserCY-7VawKGp4NiKaItF?usp=sharing) 2021年1月14日
+## [第4回 特別編 話題のデータ可視化WebアプリStreamlitを触ってみよう](https://drive.google.com/drive/folders/1pnzAvycnDflserCY-7VawKGp4NiKaItF?usp=sharing) 2021年1月14日
 
+Streamlitの基本的な使い方を説明しました。
 
-Streamlitの基本的な使い方を説明しました。これで自分のデータをコードを表示させずに、共同研究者にさっと見せることができます。
+これで自分のデータをコードを表示させずに、共同研究者にさっと見せることができます。
 
+めちゃめちゃ便利でした。
 
 ## [第5回 統計検定編](https://drive.google.com/drive/folders/1vq4kNPk415tOsyold1vOpm2cIGNLezQP?usp=sharing) 2021年1月21日
 
-ポアソン分布について詳しく解説。ベルヌーイ試行、二項分布、正規分布、標準化係数など。
+ポアソン分布についてめちゃめちゃ詳しく解説。
+
+これでベルヌーイ試行、二項分布、正規分布、標準化係数もばっちり理解できます。
 
 ## [第6回 Pandasによる実践データ分析編](https://drive.google.com/drive/folders/1sgmwNRAyv9FmTr1xH98IKnAbjYUrsX9C?usp=sharing) 2021年1月28日
 
-文字表記の揺れへの対策。
+実データ解析を行います。
 
+実際にデータには文字の表記の揺れがあります。今回は日付、半角、全角、大文字、小文字などの揺れを適切に処理する方法を学びます。
 
 ## [第7回 統計検定編](https://drive.google.com/drive/folders/1SHAj0iNahO9ToQTUL_WH5Dn0mggXb3-K?usp=sharing) 2021年2月2日
 
-カイ二乗分布について。
+カイ二乗について詳しく解説。
+
+そもそもどうしてカイ二乗なんて統計量が必要になるのか、というところから解説しています。
+
+## [第8階 特別編 PythonでTwitterを操作しよう](https://drive.google.com/drive/folders/12cjKNO5Oqyerlx_q-JsBwcul7aX6L-Ox?usp=sharing) 2021年2月10日
+
+Twitter APIをとおしてPythonコードからTwitterの操作を行います。
+
+文字列の取得、ツイートのデータ解析、自動ポストの基礎知識について解説します。
