@@ -24,6 +24,12 @@
 
 過去の課題は[こちら](https://classroom.google.com/c/MjQ0ODY1NjkwODAy?hl=ja&cjc=wjozsg7)のクラスルームに入ると確認することができます。
 
+## 過去の内容
+
+[こちら](https://github.com/bdarc-common/minpy/blob/main/documents_link.md)から過去の内容を確認できます。
+
+実際に使用したコード、データ（CSVファイル）も利用できます。
+
 ## 今後の予定
 
 勉強会の開催日時等は[connpass](https://niigata-bda-student.connpass.com/)でお知らせしています。
