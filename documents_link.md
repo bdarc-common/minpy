@@ -26,7 +26,7 @@ Pandasを使って実際にデータ分析をしました。
 ピアソンの積率相関係数、スピアマンの順位相関係数、Pythonによる単回帰の実装、相関係数と回帰直線の関係について。
 
 
-## [第4回 特別編 話題のデータ可視化WebアプリStreamlitを触ってみよう]() 2021年1月14日
+## [第4回 特別編 話題のデータ可視化WebアプリStreamlitを触ってみよう](https://drive.google.com/drive/folders/1pnzAvycnDflserCY-7VawKGp4NiKaItF?usp=sharing) 2021年1月14日
 
 Streamlitの基本的な使い方を説明しました。
 
@@ -52,7 +52,7 @@ Streamlitの基本的な使い方を説明しました。
 
 そもそもどうしてカイ二乗なんて統計量が必要になるのか、というところから解説しています。
 
-## [第8階 特別編 PythonでTwitterを操作しよう](https://drive.google.com/drive/folders/12cjKNO5Oqyerlx_q-JsBwcul7aX6L-Ox?usp=sharing) 2021年2月10日
+## [第8階 特別編 PythonでTwitterを操作しよう]() 2021年2月10日
 
 Twitter APIをとおしてPythonコードからTwitterの操作を行います。
 
