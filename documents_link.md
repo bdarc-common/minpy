@@ -52,7 +52,7 @@ Streamlitの基本的な使い方を説明しました。
 
 そもそもどうしてカイ二乗なんて統計量が必要になるのか、というところから解説しています。
 
-## [第8階 特別編 PythonでTwitterを操作しよう]() 2021年2月10日
+## [第8階 特別編 PythonでTwitterを操作しよう](https://drive.google.com/drive/folders/12cjKNO5Oqyerlx_q-JsBwcul7aX6L-Ox?usp=sharing) 2021年2月10日
 
 Twitter APIをとおしてPythonコードからTwitterの操作を行います。
 
