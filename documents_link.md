@@ -52,8 +52,14 @@ Streamlitの基本的な使い方を説明しました。
 
 そもそもどうしてカイ二乗なんて統計量が必要になるのか、というところから解説しています。
 
-## [第8階 特別編 PythonでTwitterを操作しよう](https://drive.google.com/drive/folders/12cjKNO5Oqyerlx_q-JsBwcul7aX6L-Ox?usp=sharing) 2021年2月10日
+## [第8回特別編 PythonでTwitterを操作しよう](https://drive.google.com/drive/folders/12cjKNO5Oqyerlx_q-JsBwcul7aX6L-Ox?usp=sharing) 2021年2月11日
 
 Twitter APIをとおしてPythonコードからTwitterの操作を行います。
 
 文字列の取得、ツイートのデータ解析、自動ポストの基礎知識について解説します。
+
+## [第9回 特別編 PythonでTwitterを操作しよう その2](https://drive.google.com/drive/folders/1wu8pYXnAf1cmZpEzu9UctLaYSDPKmAe6?usp=sharing) 2021年2月18日
+
+前回、Twitter APIを使ってPythonから投稿できるようになりました。
+
+この機能を使って定期的につぶやきたいので、サーバー（HEROKU）上にファイルをデプロイします。
