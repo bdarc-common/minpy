@@ -63,3 +63,7 @@ Twitter APIをとおしてPythonコードからTwitterの操作を行います�
 前回、Twitter APIを使ってPythonから投稿できるようになりました。
 
 この機能を使って定期的につぶやきたいので、サーバー（HEROKU）上にファイルをデプロイします。
+
+## [第10回 Pandasによる実践データ分析](https://drive.google.com/drive/folders/1JXr3isA0xetaa-b_hZonXCVXmCOdXTDu?usp=sharing) 2021年2月24日
+
+k-meansによるクラスタリング、線形回帰モデルによる推測、決定木による変数の調整を学びます。
