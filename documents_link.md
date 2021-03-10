@@ -66,9 +66,17 @@ Twitter APIをとおしてPythonコードからTwitterの操作を行います�
 
 ## [第10回 Pandasによる実践データ分析](https://drive.google.com/drive/folders/1JXr3isA0xetaa-b_hZonXCVXmCOdXTDu?usp=sharing) 2021年2月24日
 
-k-meansによるクラスタリング、線形回帰モデルによる推測、決定木による変数の調整を学びます。
+k-meansによるクラスタリング、線形回帰モデルによる推測、決定木による変数の調整を学びます。  
+
+CSVファイルは著作権保護のため非公開としています。元データがほしい方は、[書籍](https://amzn.to/30sPZ3V)を購入して下さい。
 
 ## [第11回 数学編 線形回帰](https://drive.google.com/drive/folders/15w2d0moSIg9a21f1jge9nhrezWnbw6AJ?usp=sharing) 2021年3月4日
 
 scikit-learnの線形回帰モデルを使って、データ解析を行います。説明変数と目的変数の関係を可視化します。  
 さらに線形回帰モデルの実装について数学的に理解します。
+
+## [第12回 Pandasによる実践データ分析](https://drive.google.com/drive/folders/1vU08q_Csjk8sUukYdHseD68Jf_N7Yk6H?usp=sharing) 2021年3月11日
+
+NetworkXによるネットワークの可視化を行い、物流の最適化を行います。
+
+こちらも著作権保護のため元データは非公開です。元データがほしい方は、[書籍](https://amzn.to/30sPZ3V)を購入して下さい。
