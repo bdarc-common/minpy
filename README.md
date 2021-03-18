@@ -16,7 +16,7 @@
 ## Slack
 
 コミュニケーションツールとして、Slackを使用しています。  
-[こちら](https://join.slack.com/t/minpy/shared_invite/zt-lkm2hzx0-nYS4hEzEgr8rzuyVZ8NJKQ)から入れます。
+[こちら](https://join.slack.com/t/minpy/shared_invite/zt-nsvw81t2-8eSiy_n0QCkVRB_NOy4EGQ)から入れます。
 
 ## Google Classroom
 
