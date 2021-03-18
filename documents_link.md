@@ -80,3 +80,7 @@ scikit-learnの線形回帰モデルを使って、データ解析を行いま�
 NetworkXによるネットワークの可視化を行い、物流の最適化を行います。
 
 こちらも著作権保護のため元データは非公開です。元データがほしい方は、[書籍](https://amzn.to/30sPZ3V)を購入して下さい。
+
+## [第13回 GANに触れてみよう](https://drive.google.com/drive/folders/1Lz1lUNtDZIvNBvrqapoVmr7MlN2fZAUB?usp=sharing) 2021年3月18日
+
+GANの基礎をMNISTで学びます。
